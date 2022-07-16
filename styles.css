@@ -32,8 +32,8 @@ html, body {
 
 .car {
     width: 150px;
-    height: 30px;
-    top: 10%;
+    height: 150px;
+    top: 15%;
     position: relative;
     background-image: url(./img/car.png);
     background-size: cover;
